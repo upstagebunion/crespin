@@ -46,6 +46,11 @@ Help Mr. C (your real-life automotive professor!) navigate the treacherous depth
   <img src="Screenshots/recharge.gif" width="600"/></br>
 </p> 
 
+### Floating Platform
+<p align="center">
+  <img src="Screenshots/floating platform.gif" width="600"/></br>
+</p> 
+
 
 ## 🛠️ Technologies Used
 - GameMaker Studio: Core game logic and level design.
