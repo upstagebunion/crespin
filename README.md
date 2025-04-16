@@ -25,13 +25,27 @@ Help Mr. C (your real-life automotive professor!) navigate the treacherous depth
 - Retro Pixel Art: Hand-drawn sprites and vibrant UI.
 
 ## 🖼️ Screenshots
+
+### Checkpoint
 <p align="center">
-  <img src="sprites/images/checkpoint.gif" width="400"/>
-  <img src="sprites/images/shooting.gif" width="400"/>
-  <img src="sprites/images/get_price.gif" width="400"/>
-  <img src="sprites/images/recharge.gif" width="400"/>
+  <img src="Screenshots/checkpoint.gif" width="600"/></br>
 </p> 
-*Left: Mr. C shooting antifreeze at a flame enemy. Right: A checkpoint bike turning pink!*
+
+### Shooting
+<p align="center">
+  <img src="Screenshots/shooting.gif" width="600"/></br>
+</p> 
+
+### Special Item Recollection
+<p align="center">
+  <img src="Screenshots/get_price.gif" width="600"/></br>
+</p> 
+
+### Recharge
+<p align="center">
+  <img src="Screenshots/recharge.gif" width="600"/></br>
+</p> 
+
 
 ## 🛠️ Technologies Used
 - GameMaker Studio: Core game logic and level design.
@@ -48,9 +62,8 @@ Run: Execute mr_c_cooling_system.exe (Windows only).
 
 Controls:
 - Arrow Keys: Move
-- Z Key: Jump
-- X Key: Shoot antifreeze
-- R Key: Respawn at last pink bike
+- Up Arrow: Jump
+- Space Bar: Shoot antifreeze
 
 ## 🌟 Why This Project?
 - Portfolio Gold: Demonstrates game design, programming, and pixel art.
