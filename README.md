@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="assets/mr_c_sprite.png" width="200"/>
+  <img src="sprites/images/spr_crespin_falling_1.png" width="70"/>
+  <img src="sprites/images/spr_corrosion_0.png" width="120"/>
 </p>
 <h1 align="center">🚗🔥 <em>Mr. C vs The Cooling System</em>🔥🚗</h1>
 <h3 align="center">A chaotic 2D platformer set inside a car's cooling system, starring your thermodynamics professor!</h3>
@@ -25,8 +26,10 @@ Help Mr. C (your real-life automotive professor!) navigate the treacherous depth
 
 ## 🖼️ Screenshots
 <p align="center">
-  <img src="assets/screenshot1.png" width="400"/>
-  <img src="assets/screenshot2.png" width="400"/>
+  <img src="sprites/images/checkpoint.gif" width="400"/>
+  <img src="sprites/images/shooting.gif" width="400"/>
+  <img src="sprites/images/get_price.gif" width="400"/>
+  <img src="sprites/images/recharge.gif" width="400"/>
 </p> 
 *Left: Mr. C shooting antifreeze at a flame enemy. Right: A checkpoint bike turning pink!*
 
@@ -59,9 +62,6 @@ Programming & Design: Francisco Garcia Solis
 Pixel Art: Francisco Garcia Solis / Angel Antonio Galvan Santibanez
 Special Thanks: Mr. C (for the inspiration and pink bike stories!).
 
-<p align="center">
-  <img src="assets/bike_animation.gif" width="150"/>
-</p> 
 *"Game development is like a car’s cooling system: if you don’t manage the heat, everything breaks."*
 
 ## 🔧 Want to Extend This Project?
